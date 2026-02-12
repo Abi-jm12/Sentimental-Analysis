@@ -1,0 +1,12 @@
+Conclusion--------------------------
+Project Results:
+In this project, a custom Transformer (GPT-style) model was built from scratch 
+to perform sentiment classification on the IMDB dataset. The model was trained 
+on 25,000 reviews and evaluated on validation and test data. After training, 
+the model achieved strong performance, significantly improving over random 
+guessing (50%) and successfully classifying reviews as positive or negative.
+
+Key Takeaways:
+1. Transformers can effectively understand text context using self-attention.
+2. Proper tokenization, model architecture, and training strategy greatly impact performance.
+3. Building a Transformer from scratch helps develop a deeper understanding of attention mechanisms.
